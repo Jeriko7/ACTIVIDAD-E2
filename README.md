@@ -1,8 +1,8 @@
 # Programas en C++ de Granja Jaramillo Estefania Lizbeth
 ## Informacion del Autor
-'Autor: Granja Jaramillo Estefania Lizbeth'
+´Autor: Granja Jaramillo Estefania Lizbeth`
 
-'Correo: estefania.granja.jaramillo@utelvt.edu.ec'
+´Correo: estefania.granja.jaramillo@utelvt.edu.ec`
 
 ## Progamas
 ### Comparacion de dos numeros
@@ -66,10 +66,12 @@ JE_c,JE_a,JE_c1,JE_a1,JE_c2,JE_a2,JE_c3,JE_a3 ==>Suma total de las monedad, Suma
 ## Instalacion
 ### Descargar el repositorio
 ''''
+1.- clonar el repositorio en la maquina local.
 
 git clone https://github.com/Jeriko7/ACTIVIDAD-E2.git 
 ''''
-''''
+2.-Ingresar a la repositorio.
+
 cd ACTIVIDAD-E2
 ''''
 ### Compilar y ejecutar
