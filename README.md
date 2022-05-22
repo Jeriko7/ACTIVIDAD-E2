@@ -1,6 +1,6 @@
 # Programas en C++ de Granja Jaramillo Estefania Lizbeth
 ## Informacion del Autor
-´Autor: Granja Jaramillo Estefania Lizbeth`
+`Autor: Granja Jaramillo Estefania Lizbeth´
 
 ´Correo: estefania.granja.jaramillo@utelvt.edu.ec`
 
