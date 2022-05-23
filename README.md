@@ -7,6 +7,7 @@
 `https://youtu.be/KZkVazWaNMI`
 
 ## Progamas
+### GranjaEstefania-Compara.cpp
 ### Comparacion de dos numeros
 ### Descripcion del problema
 Este programa en c++ permite comparar dos numeros y determinar si son igual o cual es mayor. 
@@ -21,7 +22,7 @@ float JE_x,JE_y;
 si(JE_x==JE_y) son iguales
 si(JE_x>JE_y) x es el mayor
 ```
-
+### GranjaEstefania-SumaN.cpp
 ### Suma de varios numeros 
 ### Descripcion del problema
 Este programa en c++ permite realizar la suma de varios. 
@@ -34,7 +35,7 @@ float JE_S=0,JEx;
 ```
 JE_S==> La suma total
 ```
-
+### GranjaEstefania-laedad.cpp
 #### Calcular la edad
 #### Descripcion del problema
 Este programa en c++ permite realizar calcular la edad de una persona.
@@ -46,7 +47,7 @@ int JE_dd,JE_mm,JE_yy,JE_dd1,JE_mm1,JE_yy1,JE_,da,JE_ma,JE_ya;
 ```
 JE_ya,JE_ma,Je_da ==>Su Edad
 ```
-
+### GranjaEstefania-PuntoVenta.cpp
 #### Punto de Venta
 #### Descripcion del problema
 Este programa en c++ permitr realizar Determinar la compra a pagar de varios productos.
@@ -59,7 +60,7 @@ float JE_A=0,JE_x,JE_Tb,JE_PIVA,JE_Pdsc,JE_IVA=0,12,JE_dsc=0.25,JE_VT;
 ```
 JE_VT ==> El valor total de su compra
 ```
-
+### GranjaEstefania-CuentaMoneda.cpp
 #### Contador de Moneda
 #### Descripcion del problema
 Este programa en c++ permite calcular en total de monedas ingresadas y la cantidad de su denominaciones.
