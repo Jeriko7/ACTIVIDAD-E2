@@ -1,8 +1,10 @@
-# Programas en C++ de Granja Jaramillo Estefania Lizbeth
+# Programas en C++ de Granja Estefania 
 ## Informacion del Autor
 `Autor: Granja Jaramillo Estefania Lizbeth`
 
 `Correo: estefania.granja.jaramillo@utelvt.edu.ec`
+
+https://youtu.be/KZkVazWaNMI
 
 ## Progamas
 ### Comparacion de dos numeros
