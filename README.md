@@ -1,10 +1,10 @@
-# Programas en C++ de Granja Estefania 
+# PROGRAMAS EN C++ DE GRANJA ESTEFANIA
 ## Informacion del Autor
 `Autor: Granja Jaramillo Estefania Lizbeth`
 
 `Correo: estefania.granja.jaramillo@utelvt.edu.ec`
 
-`https://youtu.be/KZkVazWaNMI`
+`Enlace del video: https://youtu.be/KZkVazWaNMI`
 
 ## Progamas
 ### GranjaEstefania-Compara.cpp
