@@ -7,11 +7,13 @@ Correo: estefania.granja.jaramillo@utelvt.edu.ec
 Enlace del video: https://youtu.be/KZkVazWaNMI
 
 # Progamas
-GranjaEstefania-Compara.cpp 
-GranjaEstefania-CuentaMoneda.cpp
-GranjaEstefania-PuntoVenta.cpp
-GranjaEstefania-SumaN.cpp
-GranjaEstefania-laedad.cpp
+
+=>GranjaEstefania-Compara.cpp 
+=>GranjaEstefania-CuentaMoneda.cpp
+=>GranjaEstefania-PuntoVenta.cpp
+=>GranjaEstefania-SumaN.cpp
+=>GranjaEstefania-laedad.cpp
+
 # Descripcion de los Programas
 ### GranjaEstefania-Compara.cpp
 Este programa en c++ permite comparar dos numeros y determinar si son igual o cual es mayor.
@@ -120,12 +122,12 @@ Dentro de la aplicacion F-Droid
 
 3.-Instalar paquetes en la terminal(Termux)
 ```
-pkg install git
-pkg install vim
-pkg install g++
-pkg install clang
-apt update
-apt upgrade
+=>pkg install git
+=>pkg install vim
+=>pkg install g++
+=>pkg install clang
+=>apt update
+=>apt upgrade
 ```
 
 4.-Clonar el Repositorio en la terminal
