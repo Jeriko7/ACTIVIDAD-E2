@@ -73,7 +73,7 @@ cin>>JE_n;
 cout<<"Ingrese el valor de la moneda (0.10,0.25,0.50): ";
 cin>>JE_x;
 ```
-#### Salidas
+### Salidas
 ## GranjaEstefania-Compara.cpp
 ```
 cout<<"El valor de X: "<<JE_x<<"es igual a Y: "<<JE_y<<endl;
@@ -106,18 +106,19 @@ cout<<"Cantidad de monedas de 0.50ctvs: "<<JE_c3<<endl<<endl;
 cout<<"Cantidad de monedas de 0.50ctvs:$ "<<JE_a3<<endl;
 ```
 # Instalacion
-```
+
 1.- Descargar F-Droid
+```
 https://f-droid.org/
 ```
-```
-2.- Descargar la terminal(Termux)
 
+2.- Descargar la terminal(Termux)
+```
 Dentro de la aplicacion F-Droid
 ```
-```
-3.-Instalar paquetes en la terminal(Termux)
 
+3.-Instalar paquetes en la terminal(Termux)
+```
 pkg install git
 pkg install vim
 pkg install g++
@@ -125,17 +126,18 @@ pkg install clang
 apt update
 apt upgrade
 ```
-```
+
 4.-Clonar el Repositorio en la terminal
+```
 git clone https://github.com/Jeriko7/ACTIVIDAD-E2
 ```
-```
+
 5.- Acceder al Repositorio
+```
 cd ACTIVIDAD-E2
 ```
-```
 6.-Escribir Comandos ==> ls
-
+```
 GranjaEstefania-Compara
 GranjaEstefania-Compara.cpp
 GranjaEstefania-Compara.jpg
@@ -153,16 +155,18 @@ GranjaEstefania-CuentaMoneda.cpp
 GranjaEstefania-CuentaMoneda.jpg
 ```
 ### Compilacion de un Programa
-```
+
 1.- Ingresar al Repositorio
+```
 cd ACTIVIDAD-E2
 ```
-```
 2.- Compilar Programa
+```
 g++ GranjaEstefania-Compara -o GranjaEstefania-Compara
 ```
 
 ### Ejecucion de un Programa
+```
 ./GranjaEstefania-Compara
 Presentacion del Programa.
 ```
