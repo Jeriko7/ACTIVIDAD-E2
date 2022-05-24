@@ -87,11 +87,82 @@ cout<<"La Suma total es: "JE_S<<endl;
 ## GranjaEstefania-laedad.cpp
 ```
 cout<<"Usted tiene "<<JE_ya<<"años"JE_ma<<"meses"<<"y"<<JE_da<<"dias"<<endl;
+```
+## GranjaEstefania-PuntoVenta.cpp
+```
+cout<<"El valor del Iva de su compra es: $"<<JE_PIVA<<endl;
+cout<<"El valor del Descuento de su compra es: $"JE_Pdsc<<endl;
+cout<<"Elvalor total de su compra a pagar es: $" JE_VT<<endl;
+```
+## GranjaEstefania-CuentaMoneda.cpp
+```
+cout<<"Cantidad de monedas ingresadas: $ "<<JE_c<<endl<<endl;
+cout<<"Canttidad total de dinero contado: $"<<JE_a<<endl<<endl;
+cout<<"Cantidad de monedas de 0.10ctvs: "<<JE_c1<<endl;
+cout<<"Cantidad de monedas de 0.10ctvs:$ "<<JE_a1<<endl<<endl;
+cout<<"Cantidad de monedas de 0.25ctvs: "<<JE_c2<<endl;
+cout<<"Cantidad de monedas de 0.25ctvs:$ "<<JE_a2<<endl<<endl;
+cout<<"Cantidad de monedas de 0.50ctvs: "<<JE_c3<<endl<<endl;
+cout<<"Cantidad de monedas de 0.50ctvs:$ "<<JE_a3<<endl;
+```
+# Instalacion
+```
+1.- Descargar F-Droid
+https://f-droid.org/
+```
+```
+2.- Descargar la terminal(Termux)
 
+Dentro de la aplicacion F-Droid
+```
+```
+3.-Instalar paquetes en la terminal(Termux)
 
+pkg install git
+pkg install vim
+pkg install g++
+pkg install clang
+apt update
+apt upgrade
+```
+```
+4.-Clonar el Repositorio en la terminal
+git clone https://github.com/Jeriko7/ACTIVIDAD-E2
+```
+```
+5.- Acceder al Repositorio
+cd ACTIVIDAD-E2
+```
+```
+6.-Escribir Comandos ==> ls
 
+GranjaEstefania-Compara
+GranjaEstefania-Compara.cpp
+GranjaEstefania-Compara.jpg
+GranjaEstefania-SumaN
+GranjaEstefania-SumaN.cpp
+GranjaEstefania-SumaN.jpg
+GranjaEstefania-laedad
+GranjaEstefania-laedad.cpp
+GranjaEstefania-laedad.jpg
+GranjaEstefania-PuntoVenta
+GranjaEstefania-PuntoVenta.cpp
+GranjaEstefania-PuntoVenta.jpg
+GranjaEstefania-CuentaMoneda
+GranjaEstefania-CuentaMoneda.cpp
+GranjaEstefania-CuentaMoneda.jpg
+```
+### Compilacion de un Programa
+```
+1.- Ingresar al Repositorio
+cd ACTIVIDAD-E2
+```
+```
+2.- Compilar Programa
+g++ GranjaEstefania-Compara -o GranjaEstefania-Compara
 ```
 
+### Ejecucion de un Programa
+./GranjaEstefania-Compara
+Presentacion del Programa.
 ```
-```
-
