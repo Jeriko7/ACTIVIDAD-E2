@@ -73,7 +73,7 @@ cin>>JE_n;
 cout<<"Ingrese el valor de la moneda (0.10,0.25,0.50): ";
 cin>>JE_x;
 ```
-### Salidas
+# SALIDAS
 ## GranjaEstefania-Compara.cpp
 ```
 cout<<"El valor de X: "<<JE_x<<"es igual a Y: "<<JE_y<<endl;
