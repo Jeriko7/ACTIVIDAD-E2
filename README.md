@@ -76,7 +76,7 @@ cout<<"Ingrese la fecha de Nacimiento: Dia Mes Año" ;
 cin>>JE_dd1>>JE_mm1>>JE_yy1;
 ```
 
-# SALIDAS
+# Salidas
 ### GranjaEstefania-Compara.cpp
 ```
 cout<<"El valor de X: "<<JE_x<<"es igual a Y: "<<JE_y<<endl;
